@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0A3D91,70:FF7A00,100:000000&height=200&section=header&text=Reqeuna%20Seijas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Dev%20%C2%B7%20Bots%20%C2%B7%20Automation%20%C2%B7%20AI&descAlignY=58&descSize=16" width="100%" alt="header" />
 
-<img src="./assets/logo.png" width="220" alt="Req8939 logo" />
+<img src="./assets/logo-circle.png" width="220" alt="Req8939 logo" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF8A00&center=true&vCenter=true&width=520&lines=Construyo+bots+de+Telegram+%F0%9F%A4%96;Automatizo+procesos+con+Python+%E2%9A%A1;Integro+IA+en+apps+reales+%F0%9F%A7%A0;Desde+Manaus%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
