@@ -1,20 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,20,24&height=220&section=header&text=Reqeuna%20Seijas&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Python%20Dev%20%C2%B7%20Bots%20%C2%B7%20Automation%20%C2%B7%20AI&descAlignY=62&descSize=17" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0A3D91,70:FF7A00,100:000000&height=200&section=header&text=Reqeuna%20Seijas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Dev%20%C2%B7%20Bots%20%C2%B7%20Automation%20%C2%B7%20AI&descAlignY=58&descSize=16" width="100%" alt="header" />
+
+<img src="./assets/logo.png" width="220" alt="Req8939 logo" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF79C6&center=true&vCenter=true&width=520&lines=Construyo+bots+de+Telegram+%F0%9F%A4%96;Automatizo+procesos+con+Python+%E2%9A%A1;Integro+IA+en+apps+reales+%F0%9F%A7%A0;Desde+Manaus%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=FF8A00&center=true&vCenter=true&width=520&lines=Construyo+bots+de+Telegram+%F0%9F%A4%96;Automatizo+procesos+con+Python+%E2%9A%A1;Integro+IA+en+apps+reales+%F0%9F%A7%A0;Desde+Manaus%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-![Python](https://img.shields.io/badge/Python-BD93F9?style=for-the-badge&logo=python&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bots-8BE9FD?style=for-the-badge&logo=telegram&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-FF79C6?style=for-the-badge&logo=fedora&logoColor=white)
-![Hyprland](https://img.shields.io/badge/Hyprland-50FA7B?style=for-the-badge&logo=linux&logoColor=black)
-![Claude](https://img.shields.io/badge/Claude_API-FFB86C?style=for-the-badge&logo=anthropic&logoColor=black)
+![Python](https://img.shields.io/badge/Python-00A8FF?style=for-the-badge&logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-FF8A00?style=for-the-badge&logo=telegram&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-00A8FF?style=for-the-badge&logo=fedora&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-FF8A00?style=for-the-badge&logo=linux&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude_API-00A8FF?style=for-the-badge&logo=anthropic&logoColor=white)
 
-![Visitas](https://komarev.com/ghpvc/?username=req8939&style=flat-square&color=BD93F9&label=Visitas)
+![Visitas](https://komarev.com/ghpvc/?username=req8939&style=flat-square&color=FF8A00&labelColor=000000&label=Visitas)
 
 </div>
 
@@ -43,10 +45,10 @@ Soy desarrollador Python y profesional de TI en **Manaus, Brasil** 🌴. Constru
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=req8939&show_icons=true&theme=radical&hide_border=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=req8939&layout=compact&theme=radical&hide_border=true" alt="langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=req8939&show_icons=true&hide_border=true&bg_color=000000&title_color=FF8A00&icon_color=00A8FF&text_color=E6EDF3" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=req8939&layout=compact&hide_border=true&bg_color=000000&title_color=FF8A00&text_color=E6EDF3" alt="langs" />
 
-<img src="https://streak-stats.demolab.com?user=req8939&theme=radical&hide_border=true" alt="streak" />
+<img src="https://streak-stats.demolab.com?user=req8939&hide_border=true&background=000000&ring=FF8A00&fire=FF8A00&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00A8FF&sideLabels=00A8FF&dates=8B949E" alt="streak" />
 
 </div>
 
@@ -54,12 +56,12 @@ Soy desarrollador Python y profesional de TI en **Manaus, Brasil** 🌴. Constru
 
 <div align="center">
 
-[![Workana](https://img.shields.io/badge/Workana-BD93F9?style=for-the-badge&logoColor=white)](https://www.workana.com)
-[![Upwork](https://img.shields.io/badge/Upwork-8BE9FD?style=for-the-badge&logo=upwork&logoColor=black)](https://www.upwork.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FF79C6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/req8939)
+[![Workana](https://img.shields.io/badge/Workana-00A8FF?style=for-the-badge&logoColor=white)](https://www.workana.com)
+[![Upwork](https://img.shields.io/badge/Upwork-FF8A00?style=for-the-badge&logo=upwork&logoColor=black)](https://www.upwork.com)
+[![GitHub](https://img.shields.io/badge/GitHub-00A8FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/req8939)
 
-*💜 Abierto a proyectos freelance y equipos que quieran construir cosas útiles.*
+*🧡 Abierto a proyectos freelance y equipos que quieran construir cosas útiles.*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=100&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:FF7A00,65:0A3D91,100:000000&height=100&section=footer" width="100%" alt="footer" />
