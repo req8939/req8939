@@ -1,109 +1,63 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td width="64%" valign="middle">
-<p><sub>RECRUITER SIGNAL BRIEF · req8939</sub></p>
-<h1>Reqeuna Seijas</h1>
-<h2>Product-minded developer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
-<p><sub>Based in manaus, brasil</sub></p>
-<p><a href="https://github.com/req8939">GitHub</a></p>
-</td>
-<td width="36%" valign="middle" align="center">
-<img src="https://avatars.githubusercontent.com/u/178853603?u=856206ba6ca562121bd560b271ffbd2a7d26f288&amp;v=4" width="180" alt="Reqeuna Seijas GitHub avatar" />
-</td>
-</tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Reqeuna%20Seijas&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%C2%B7%20Bots%20%C2%B7%20Automation%20%C2%B7%20AI&descAlignY=58&descSize=16" width="100%" alt="header" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=520&lines=Construyo+bots+de+Telegram+%F0%9F%A4%96;Automatizo+procesos+con+Python+%E2%9A%99%EF%B8%8F;Integro+IA+en+aplicaciones+reales+%F0%9F%A7%A0;Desde+Manaus%2C+Brasil+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Linux](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=linux&logoColor=black)
+![Anthropic](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+
+![Visitas](https://komarev.com/ghpvc/?username=req8939&style=flat-square&color=2c5364&label=Visitas)
+
 </div>
 
-<h2>What teams can evaluate quickly</h2>
+---
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Product-minded developer</p></td>
-<td width="33%" valign="top"><h3>Public proof</h3><p>1 repositories · 0 stars</p></td>
-<td width="33%" valign="top"><h3>Momentum</h3><p>14 contributions · 6 active days</p></td>
-</tr>
-</table>
+## 👋 Sobre mí
 
-<p><sub>Building useful software and sharing the work in public.</sub></p>
+Soy desarrollador Python y profesional de TI en **Manaus, Brasil**. Me dedico a construir herramientas que resuelven problemas concretos: bots, automatizaciones y aplicaciones con IA integrada. Trabajo en freelance y hablo **español 🇪🇸 y português 🇧🇷**.
 
-<h2>Proof at a glance</h2>
+- 🤖 Bots de Telegram a medida
+- ⚙️ Automatización de tareas y flujos de trabajo
+- 🧠 Apps con IA (LLMs, generación de video/imagen)
+- 🐧 Fedora + Hyprland, todo desde la terminal
 
-<table width="100%">
-<tr>
-<td width="25%" align="center"><strong>1</strong><br /><sub>Repositories</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
-<td width="25%" align="center"><strong>14</strong><br /><sub>Contributions</sub></td>
-<td width="25%" align="center"><strong>0</strong><br /><sub>Followers</sub></td>
-</tr>
-</table>
+## 🛠️ Stack
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=req8939&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178853603%3Fu%3D856206ba6ca562121bd560b271ffbd2a7d26f288%26v%3D4&v=recruiter-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=req8939&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178853603%3Fu%3D856206ba6ca562121bd560b271ffbd2a7d26f288%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Reqeuna Seijas GitHub proof metrics" />
-</picture>
-</p>
+<div align="center">
 
-<h2>Selected work</h2>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,sqlite,postgres,docker,git,linux,bash,vim,fedora&theme=dark" alt="skills" />
 
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=req8939&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178853603%3Fu%3D856206ba6ca562121bd560b271ffbd2a7d26f288%26v%3D4&repos=req8939%2Freq8939&v=recruiter-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=req8939&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178853603%3Fu%3D856206ba6ca562121bd560b271ffbd2a7d26f288%26v%3D4&repos=req8939%2Freq8939&v=recruiter-projects-1&mode=dark" width="100%" alt="Reqeuna Seijas selected projects" />
-</picture>
-</td>
-<td width="42%" valign="top">
-<h3><a href="https://github.com/req8939/req8939">req8939</a></h3>
-<p>My GitHub profile</p>
-<p><sub>⭐ 0 · 🍴 0</sub></p>
-<p><a href="https://github.com/req8939/req8939">Read the repository →</a></p>
-</td>
-</tr>
-</table>
+</div>
 
-<table width="100%">
-<tr>
+## 📊 Estadísticas
 
-</tr>
-</table>
+<div align="center">
 
-<h2>Technical toolkit</h2>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=req8939&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=req8939&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="langs" />
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=req8939&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178853603%3Fu%3D856206ba6ca562121bd560b271ffbd2a7d26f288%26v%3D4&v=recruiter-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=req8939&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178853603%3Fu%3D856206ba6ca562121bd560b271ffbd2a7d26f288%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Reqeuna Seijas technology stack" />
-</picture>
-</p>
+<img src="https://streak-stats.demolab.com?user=req8939&theme=tokyonight&hide_border=true&background=0d1117" alt="streak" />
 
-<table width="100%">
-<tr>
-<td width="100%" align="center"><sub>Language data will appear as public repositories are indexed.</sub></td>
-</tr>
-</table>
+</div>
 
-<h2>Consistency signal</h2>
+## 📫 Contacto
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=req8939&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178853603%3Fu%3D856206ba6ca562121bd560b271ffbd2a7d26f288%26v%3D4&v=recruiter-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=req8939&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F178853603%3Fu%3D856206ba6ca562121bd560b271ffbd2a7d26f288%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Reqeuna Seijas contribution activity" />
-</picture>
-</p>
+<div align="center">
 
-<hr />
+[![Workana](https://img.shields.io/badge/Workana-0F9D58?style=for-the-badge&logoColor=white)](https://www.workana.com)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/req8939)
 
-<table width="100%">
-<tr>
-<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
-<td width="38%" valign="middle" align="right"><a href="https://github.com/req8939">GitHub</a></td>
-</tr>
-</table>
+*Abierto a proyectos freelance y equipos que quieran construir cosas útiles.*
 
-<p align="center"><sub>Reqeuna Seijas · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
