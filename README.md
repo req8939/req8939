@@ -24,14 +24,49 @@
 
 ## 👋 Sobre mí
 
-Soy desarrollador Python y profesional de TI en **Manaus, Brasil** 🌴. Construyo herramientas que resuelven problemas reales: bots, automatizaciones y apps con IA. Trabajo freelance y hablo **español 🇪🇸 y português 🇧🇷**.
+Soy desarrollador Python y profesional de TI en **Manaus, Brasil** 🌴. Construyo herramientas que resuelven problemas reales: bots, automatizaciones y aplicaciones con IA integrada. Trabajo freelance con clientes de habla hispana y portuguesa, y hablo **español 🇪🇸 y português 🇧🇷**.
 
 | | |
 |---|---|
-| 🤖 **Bots** | Telegram a medida |
-| ⚙️ **Automatización** | Flujos y tareas repetitivas |
-| 🧠 **IA** | LLMs, video e imagen generativa |
+| 🤖 **Bots** | Telegram a medida: menús, pagos, panel de admin, base de datos |
+| ⚙️ **Automatización** | Scripts, scraping, flujos y tareas repetitivas |
+| 🧠 **IA** | LLMs integrados en apps, generación de video e imagen |
 | 🐧 **Setup** | Fedora + Hyprland, todo desde la terminal |
+
+## 💼 Servicios
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
+
+### 🤖 Bots de Telegram
+Bots para atención al cliente, ventas, notificaciones y gestión de usuarios.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### ⚙️ Automatización
+Convierto procesos manuales en scripts que corren solos y te ahorran horas.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### 🧠 Apps con IA
+Integro modelos de lenguaje y generación de contenido en tus herramientas.
+
+</td>
+</tr>
+</table>
+
+## 🚀 Proyectos
+
+| Proyecto | Descripción | Tecnologías |
+|---|---|---|
+| 🌳 **MANAUS · A metrópole da floresta** | Documental generado con IA sobre Manaus | IA generativa, video |
+| 🎬 **Video AI pipeline** | Flujo automatizado para producir video con IA | Python, APIs de IA |
+| 🤖 **Bots de Telegram** | Bots a medida para clientes freelance | Python, Telegram Bot API |
+
+> 📌 Próximamente: repos públicos con ejemplos de bots y automatizaciones.
 
 ## 🛠️ Stack
 
@@ -40,6 +75,19 @@ Soy desarrollador Python y profesional de TI en **Manaus, Brasil** 🌴. Constru
 <img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,postgres,docker,git,linux,bash,vim,fedora&theme=dark" alt="skills" />
 
 </div>
+
+## 🧭 Cómo trabajo
+
+- 💬 **Comunicación clara**: te explico cada avance sin tecnicismos innecesarios.
+- 📦 **Entregas prácticas**: código limpio, documentado y listo para usar.
+- ⏱️ **Responsable con los plazos**: acordamos alcance y fechas desde el inicio.
+- 🌎 **Atención en español y português**.
+
+## 🌱 Ahora mismo
+
+- 🔭 Construyendo bots y automatizaciones para clientes freelance
+- 🧪 Experimentando con IA para video e imagen
+- 📚 Mejorando mi flujo de trabajo en Linux y terminal
 
 ## 📊 Estadísticas
 
@@ -64,9 +112,10 @@ Soy desarrollador Python y profesional de TI en **Manaus, Brasil** 🌴. Constru
 
 <div align="center">
 
-[![Workana](https://img.shields.io/badge/Workana-00A8FF?style=for-the-badge&logoColor=white)](https://www.workana.com)
-[![Upwork](https://img.shields.io/badge/Upwork-FF8A00?style=for-the-badge&logo=upwork&logoColor=black)](https://www.upwork.com)
-[![GitHub](https://img.shields.io/badge/GitHub-00A8FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/req8939)
+[![Telegram](https://img.shields.io/badge/Telegram-FF8A00?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/TU_USUARIO)
+[![Email](https://img.shields.io/badge/Email-00A8FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
+[![Workana](https://img.shields.io/badge/Workana-FF8A00?style=for-the-badge&logoColor=black)](https://www.workana.com/freelancer/TU_PERFIL)
+[![Upwork](https://img.shields.io/badge/Upwork-00A8FF?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~TU_PERFIL)
 
 *🧡 Abierto a proyectos freelance y equipos que quieran construir cosas útiles.*
 
