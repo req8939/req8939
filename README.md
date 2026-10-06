@@ -112,8 +112,7 @@ Integro modelos de lenguaje y generación de contenido en tus herramientas.
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-FF8A00?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/TU_USUARIO)
-[![Email](https://img.shields.io/badge/Email-00A8FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@gmail.com)
+[![Email](https://img.shields.io/badge/Email-00A8FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:req8939@gmail.com)
 [![Workana](https://img.shields.io/badge/Workana-FF8A00?style=for-the-badge&logoColor=black)](https://www.workana.com/freelancer/TU_PERFIL)
 [![Upwork](https://img.shields.io/badge/Upwork-00A8FF?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~TU_PERFIL)
 
